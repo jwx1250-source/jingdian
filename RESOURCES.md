@@ -14,6 +14,9 @@
 - [Chinese Text Project: Dao De Jing](https://ctext.org/dao-de-jing)
   公版古籍入口。Use for: 核对《道德经》章句原文。
 
+- [Chinese Text Project: Book of Changes](https://ctext.org/book-of-changes)
+  公版古籍入口。Use for: 核对《易经》《周易》卦名、卦辞、彖象和爻辞。
+
 ## Wisdom (Communities)
 
 - 中国中医科学院、中国中医药大学等公开课程与讲座
