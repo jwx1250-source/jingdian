@@ -11,6 +11,9 @@
 - [World Health Organization: ICD-11 Traditional Medicine chapter overview](https://www.who.int/standards/classifications/frequently-asked-questions/traditional-medicine)
   现代机构对传统医学分类的背景说明。Use for: 区分传统医学知识体系与现代医疗安全边界。
 
+- [Chinese Text Project: Dao De Jing](https://ctext.org/dao-de-jing)
+  公版古籍入口。Use for: 核对《道德经》章句原文。
+
 ## Wisdom (Communities)
 
 - 中国中医科学院、中国中医药大学等公开课程与讲座
